@@ -1,6 +1,8 @@
 # beats
 
-A new Flutter project.
+![WhatsApp Image 2023-07-27 at 12 13 23 AM](https://github.com/SalemAshraf/beats/assets/82342535/9b289e8d-0e89-48cb-9caf-fdd9b1a61e84)
+
+
 
 ## Getting Started
 
